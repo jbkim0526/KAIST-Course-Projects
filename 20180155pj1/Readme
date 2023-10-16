@@ -1,0 +1,9 @@
+I checked error case about unique stu num inside student.cpp, non negative stunum in main.cpp & student.cpp
+I also checked error case about non negative freshmenclass although it was not written in pdf 
+I checked error case for index range only inside student.cpp
+I switched the order of the skeleton code but didn't change any interface.
+
+
+I wasn't sure if I had to print some Information such as "compare result : true" in compare student or find student function so I just did't print anything.
+
+I just named the output program "out" , in the makefile
