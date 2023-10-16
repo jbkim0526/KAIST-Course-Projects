@@ -1,0 +1,79 @@
+Portland, OR
+Ontario, CA
+Moses Lake, WA
+Ogden, UT
+Boise, ID
+San Diego, CA
+Colorado Springs, CO
+Austin, TX
+Lihue, HI
+Hayden, CO
+Spokane, WA
+Phoenix, AZ
+Sacramento, CA
+Kahului, HI
+San Antonio, TX
+Oakland, CA
+Santa Ana, CA
+Des Moines, IA
+Albuquerque, NM
+Salt Lake City, UT
+Minneapolis, MN
+Ketchikan, AK
+Sitka, AK
+Baltimore, MD
+Memphis, TN
+Charlotte, NC
+Anchorage, AK
+Palm Springs, CA
+Philadelphia, PA
+Detroit, MI
+Burbank, CA
+Cleveland, OH
+New York, NY
+Las Vegas, NV
+Pasco/Kennewick/Richland, WA
+Wichita, KS
+Denver, CO
+Chicago, IL
+Newark, NJ
+Orlando, FL
+Long Beach, CA
+Omaha, NE
+Yakima, WA
+San Francisco, CA
+Houston, TX
+Kona, HI
+Santa Barbara, CA
+Hartford, CT
+St. Louis, MO
+Atlanta, GA
+Bellingham, WA
+Honolulu, HI
+Fort Lauderdale, FL
+Dallas/Fort Worth, TX
+Pittsburgh, PA
+Boston, MA
+Milwaukee, WI
+Pocatello, ID
+Kansas City, MO
+Jackson, WY
+Washington, DC
+Miami, FL
+Indianapolis, IN
+Nashville, TN
+Bend/Redmond, OR
+Fresno, CA
+Los Angeles, CA
+San Jose, CA
+Bozeman, MT
+Medford, OR
+Cincinnati, OH
+Tucson, AZ
+Reno, NV
+Fairbanks, AK
+New Orleans, LA
+Tampa, FL
+Juneau, AK
+Twin Falls, ID
+Eugene, OR
