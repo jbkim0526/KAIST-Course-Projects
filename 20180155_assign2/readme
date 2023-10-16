@@ -1,0 +1,13 @@
+Name: Kim JunBeum
+Student ID: 20180155
+
+I didn't receive any help from other.
+I only refered to classum and King's C Programming.
+
+- I think it is possible to call assert by camparing the size of destination and source. so that if destination is bigger than source assert does nothing and if source is bigger than destination, the assert prints error message on stdout.
+But this shouldn't be necessary to the implementor because it is a job for the
+user to make destination bigger than the source.
+
+
+- At part1 of Assignment 2 I used pointer notation for extra credit.
+
