@@ -1,2 +1,10 @@
 # EE209 전자공학을 위한 프로그래밍 구조
-Submission Codes
+
+Semester: 2018 Fall
+Team Project: No
+Contents
+1. A Word Counting Program
+2. String Manipulation
+3. Customer Management Table
+4. Assembly Language Programming
+5. A Unix Shell
