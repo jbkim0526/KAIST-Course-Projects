@@ -1,0 +1,11 @@
+Name: Kim JunBuem
+Student ID: 20180155
+Assignment Number: 3
+
+-I didn't receive any help from others. I only looked at King's book and classum
+
+-Using an array implementation can be easier than using hash table, and it can be easiler to check the memory leak. But Using hash table is much faster since it doesn't have to check all the elements. I used recursion fuction when I implented with hash table, so I worried it would cause the program to be slow, but the program was still faster than the array implementation.
+
+
+-I implemented hash table explansion. extend_hashtable() is the function for it.
+-I used 2 days late submission. (This was the first time I was late) 

@@ -1,0 +1,10 @@
+Name: Kim JunBeum
+Student ID: 20180155
+
+I didn't received any help from other students.
+
+-I kept on getting "floating point exception" error when I was working on division and
+remainder so I googled on how to use the idivl and found out about "cdq" which fixed the problem.
+
+-I used the last token in this assignment 4.
+ I used two at assignment 3 and last one here
