@@ -1,5 +1,7 @@
 # EE209 전자공학을 위한 프로그래밍 구조
 
+Course Title: Programming Structure for Electrical Engineering
+Course Type: Major Required
 Semester: 2018 Fall <br/>
 Team Project: No <br/>
 Contents 
